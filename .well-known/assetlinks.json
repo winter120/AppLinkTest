@@ -6,20 +6,4 @@
     "sha256_cert_fingerprints":
     ["5F:8F:43:AC:22:1C:D6:87:B5:A6:8D:2E:D6:9C:FF:98:B1:95:09:D2:2E:89:C7:E5:03:91:D2:22:A8:B4:39:A6"]
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://winter120.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.ihandysoft_008.schemedemo",
-    "sha256_cert_fingerprints":
-    ["5F:8F:43:AC:22:1C:D6:87:B5:A6:8D:2E:D6:9C:FF:98:B1:95:09:D2:2E:89:C7:E5:03:91:D2:22:A8:B4:39:A6"]
-  }
 }]
