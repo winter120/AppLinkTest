@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.ihandysoft_008.schemedemo",
+    "package_name": "com.winter.applinkdemo",
     "sha256_cert_fingerprints":
-    ["5F:8F:43:AC:22:1C:D6:87:B5:A6:8D:2E:D6:9C:FF:98:B1:95:09:D2:2E:89:C7:E5:03:91:D2:22:A8:B4:39:A6"]
+    ["EE:76:93:0F:E8:6D:29:79:A4:B4:59:E7:51:72:7D:12:AA:34:4D:41:C9:98:09:32:4D:89:67:DF:D9:D7:26:26"]
   }
 }]
