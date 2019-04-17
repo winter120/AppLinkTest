@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.android.pixel.color",
+    "package_name": "com.example.applinktest",
     "sha256_cert_fingerprints":
     ["9C:67:48:7C:5C:55:2F:64:36:3B:2C:20:A7:2A:6B:00:54:29:92:A8:4C:97:EE:60:DF:72:BB:EF:D7:A3:BA:92"]
   }
