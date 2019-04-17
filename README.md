@@ -1,3 +1,3 @@
 # AppLinkTest
-A project to learn app link of android
+A project to learn app link of android  
 pixel
