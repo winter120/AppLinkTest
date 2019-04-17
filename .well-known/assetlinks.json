@@ -15,8 +15,8 @@
     "sha256_cert_fingerprints":
     ["EE:76:93:0F:E8:6D:29:79:A4:B4:59:E7:51:72:7D:12:AA:34:4D:41:C9:98:09:32:4D:89:67:DF:D9:D7:26:26"]
   }
-}]
-[{
+},
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
