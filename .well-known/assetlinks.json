@@ -16,3 +16,12 @@
     ["EE:76:93:0F:E8:6D:29:79:A4:B4:59:E7:51:72:7D:12:AA:34:4D:41:C9:98:09:32:4D:89:67:DF:D9:D7:26:26"]
   }
 }]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.android.pixel.color",
+    "sha256_cert_fingerprints":
+    ["9C:67:48:7C:5C:55:2F:64:36:3B:2C:20:A7:2A:6B:00:54:29:92:A8:4C:97:EE:60:DF:72:BB:EF:D7:A3:BA:92"]
+  }
+}]
